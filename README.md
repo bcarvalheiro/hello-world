@@ -1,2 +1,2 @@
 # hello-world
-testing
+Hello, this is a gitHub session test ! 
